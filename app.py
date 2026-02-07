@@ -1,4 +1,4 @@
-# app.py
+# app_pretty.py
 import streamlit as st
 import pandas as pd
 import joblib
@@ -10,7 +10,6 @@ X_columns = joblib.load("feature_columns.pkl")
 st.set_page_config(page_title="توقع التراك للطالب", layout="centered")
 st.title("🎯 توقع التراك المناسب للطالب")
 
-# =========================
 with st.form("student_form"):
     age = st.number_input("Age", min_value=10, max_value=100, value=20)
     gender = st.selectbox("Gender", ["Male", "Female"])
@@ -29,8 +28,6 @@ with st.form("student_form"):
     submitted = st.form_submit_button("توقع التراك")
 
 if submitted:
-    
-    # =========================
     thinking_score = (analytical_thinking + abstract_thinking + critical_evaluation)/3
     logic_math_score = (logical_reasoning + problem_solving + mathematical_reasoning)/3
 
@@ -62,11 +59,9 @@ if submitted:
     pred = model.predict(sample_df)[0]
     track_name = le.inverse_transform([pred])[0]
 
-    # =========================
-    
     st.subheader(f"✅ التراك المقترح: {track_name}")
     st.subheader("📊 احتمالية كل التراكات:")
 
     for cls, prob in zip(le.classes_, probs):
         st.write(f"{cls}: {prob*100:.2f}%")
-        st.progress(prob)  # شريط الألوان
+        st.progress(prob)
