@@ -1,8 +1,8 @@
-pandas
-scikit-learn
-imblearn
-xgboost
-joblib
-streamlit
-altair==4.2.0
-
+pandas==2.1.0
+scikit-learn==1.3.0
+imblearn==0.1.1
+xgboost==1.7.6
+joblib==1.3.2
+streamlit==1.26.0
+altair==4.2.2
+Pillow==10.1.0
