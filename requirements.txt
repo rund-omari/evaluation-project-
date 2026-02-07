@@ -4,3 +4,4 @@ imblearn
 xgboost
 joblib
 streamlit
+altair
