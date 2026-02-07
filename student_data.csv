@@ -1,0 +1,231 @@
+﻿Id,Start time,Completion time,Email,Name,Full name,Age :,Majer :,Gender ?,The field he/she desires, Section 1: Logical Reasoning (16.5 Marks), Section 2: Memory and Recall (5 Marks), Section 3: Problem-Solving (15 Marks), Section 4: Analytical Thinking (15 Marks), Section 5: Abstract Thinking (5 Marks), Section 6: Critical Evaluation (10 Marks), Section 7: Mathematical Reasoning (10 Marks), Section 8: Decision Making (3.5 Marks), Section 9: Comprehension (10 Marks), Section 10: Spatial Intelligence (5 Marks),"coding  (20 Marks)
+
+",Majer ,"start point : please enter number of the course that start with :
+AI [""intro "" : 0 , ""python"" : 1 , ""Data engineer"": 2 ,""machine learning"" : 3 , ""deep learning"": 4 ]
+full stack [""intro "" : 0 , ""fronte",number of courses (in the track),number of course( for student) 
+1,5/11/2024 15:34,5/12/2024 11:17,e.taani@sdkjordan.com,Elaf Taani,رحى محمد شفاع ,22,Engineering,Woman,Flutter,12,3,0,0,0,10,0,3.5,0,3,0,flutter ,0,4,1
+2,5/12/2024 11:18,5/12/2024 11:53,e.taani@sdkjordan.com,Elaf Taani,محمد ابراهيم العتال ,20,Engineering,Man,Full stack,12,4,0,5,0,0,4,5,5,0,2,Fullstack,0,5,1
+3,5/12/2024 12:07,5/12/2024 12:07,e.taani@sdkjordan.com,Elaf Taani,كاظم زكريا قباله ,20,Engineering,Man,Full stack,15,1.5,0,0,5,5,5,5,9,4,1,Fullstack,0,5,5
+4,5/12/2024 12:08,5/12/2024 12:10,e.taani@sdkjordan.com,Elaf Taani,عصام عز الدين البطاينة,20,Engineering,Man,Full stack,9,5,10,5,0,5,0,5,5,5,5,Fullstack,0,5,5
+5,5/12/2024 12:10,5/12/2024 12:15,e.taani@sdkjordan.com,Elaf Taani,عمر جابر البوقي,20,Engineering,Man,Full stack,9,3,10,0,0,5,5,5,2,1,1.0,Fullstack,0,5,5
+6,5/14/2024 12:13,5/14/2024 12:19,e.taani@sdkjordan.com,Elaf Taani,محمد ابو سليم ,20,Engineering,Man,Full stack,9,2,0,0,0,5,0,1,2.5,3,0,Fullstack,0,5,5
+7,5/14/2024 12:19,5/14/2024 12:21,e.taani@sdkjordan.com,Elaf Taani,محمد رائد بني اسماعيل ,20,Engineering,Man,Full stack,9,5,0,0,0,0,0,4.5,0,3,0,Fullstack,0,5,5
+8,5/14/2024 12:21,5/14/2024 12:23,e.taani@sdkjordan.com,Elaf Taani,الحارث ناصر صمادي,20,Engineering,Man,Full stack,6,3,0,0,0,0,3,5,0,0,0,Fullstack,0,5,5
+9,5/14/2024 12:42,5/14/2024 12:43,e.taani@sdkjordan.com,Elaf Taani,محمد يحيى الحسين ,20,other,Man,Full stack,6,3.5,0,0,0,5,0,3.5,0,0,0,Fullstack,0,5,5
+10,5/22/2024 15:31,5/22/2024 15:39,e.taani@sdkjordan.com,Elaf Taani,حسام معتز هزايمه,20,IT,Man,Flutter,9,4,0,0,5,5,5,3.5,0,3,0,Fullstack,0,5,5
+11,7/1/2024 14:08,7/1/2024 14:23,e.taani@sdkjordan.com,Elaf Taani,رنيم البدر,23,Engineering,Woman,Full stack,9,2.8,0,0,0,5,5,4,5,3,دخل الامتحان,Fullstack,1,5,4
+12,7/1/2024 14:24,7/1/2024 14:46,e.taani@sdkjordan.com,Elaf Taani,محمد جيزاوي,20,IT,Man,AI,9,3,0,15,5,2,0,4.5,1,3,ما دخل امتحان,AI,1,5,1
+13,7/1/2024 14:47,7/1/2024 14:52,e.taani@sdkjordan.com,Elaf Taani,احمد قاسم البشير ,21,IT,Man,Full stack,12,4.5,0,0,0,10,0,2.5,4.5,3,12,AI,0,5,5
+14,7/2/2024 10:40,7/2/2024 10:51,e.taani@sdkjordan.com,Elaf Taani,بشار الخطيب ,21,Engineering,Man,Flutter,6,2.5,0,0,0,5,5,3,2.5,3,ما دخل الامتحان,flutter ,0,4,4
+15,7/2/2024 10:51,7/2/2024 10:55,e.taani@sdkjordan.com,Elaf Taani,شهد باسل البطاينه ,23,Engineering,Woman,AI,12,3.65,0,10,0,5,0,4.5,2,5,دخلت الامتحان ,Fullstack,1,5,4
+16,7/2/2024 10:55,7/2/2024 10:58,e.taani@sdkjordan.com,Elaf Taani,بهاد الدين صالح العمري,23,IT,Man,Full stack,6,5,0,0,5,5,5,3.5,0,1,ما دخل الامتحان,AI,0,5,2
+17,7/2/2024 10:58,7/2/2024 11:03,e.taani@sdkjordan.com,Elaf Taani,الحارث تهتموني,21,IT,Man,Full stack,15,3.5,15,0,0,5,5,4.5,5,3,دخل الامتحان,Fullstack,1,5,4
+18,7/2/2024 11:04,7/2/2024 11:11,e.taani@sdkjordan.com,Elaf Taani,تالا خالد المقصقص,21,other,Woman,AI,15,5,5,5,0,5,5,5,7.5,3,ما دخلت الامتحان,AI,0,5,5
+19,7/2/2024 11:14,7/2/2024 11:16,e.taani@sdkjordan.com,Elaf Taani,يزيد طارق حسين بدور,22,IT,Man,Flutter,9,5,0,0,0,0,4.5,4,1.5,3,ما دخل الامتحان,flutter ,0,4,4
+20,7/2/2024 11:30,7/2/2024 11:33,e.taani@sdkjordan.com,Elaf Taani,عمر جابر العتال ,21,Engineering,Man,Full stack,9,3,10,0,0,5,5,5,2,1,ما دخل الامتحان,Fullstack,0,5,5
+21,7/2/2024 11:33,7/2/2024 11:35,e.taani@sdkjordan.com,Elaf Taani,عصام عز الدين نواف البطاينة,21,Engineering,Man,Full stack,9,5,10,5,0,5,0,5,5,5,ما دخل الامتحان,Fullstack,0,5,5
+22,7/2/2024 13:39,7/2/2024 13:41,e.taani@sdkjordan.com,Elaf Taani,محمد زائد حسين بني اسماعيل,20,Engineering,Man,Full stack,9,5,0,0,0,0,0,4.5,0,3,ما دخل الامتحان,Fullstack,0,5,5
+23,7/2/2024 13:42,7/2/2024 13:43,e.taani@sdkjordan.com,Elaf Taani,محمد ابو سليم,20,Engineering,Man,Full stack,9,2,0,0,0,5,0,1,2.5,3,ما دخل الامتحان,Fullstack,0,5,5
+24,7/13/2024 12:12,7/13/2024 12:15,e.taani@sdkjordan.com,Elaf Taani,الحارث محمد ناصر الصمادي,20,Engineering,Man,Full stack,6,3,0,0,0,0,3,5,0,0,ما دخل الامتحان,Fullstack,0,5,5
+25,7/13/2024 12:15,7/13/2024 12:20,e.taani@sdkjordan.com,Elaf Taani,شهد نضال,20,Engineering,Woman,Full stack,12,4.3,0,5,0,0,0,4,5,0,دخلت الامتحان,Fullstack,0,5,5
+26,7/13/2024 12:20,7/13/2024 12:23,e.taani@sdkjordan.com,Elaf Taani,عمر محمد الشمالي ,20,Engineering,Man,Full stack,12,5,15,5,0,0,10,5,3.5,5,ما دخل الامتحان,Fullstack,1,5,4
+27,7/13/2024 12:23,7/13/2024 12:25,e.taani@sdkjordan.com,Elaf Taani,كاظم زكريا قباله ,20,Engineering,Man,Full stack,15,1.5,0,0,5,5,5,5,9,4,ما دخل الامتحان ,Fullstack,0,5,5
+28,7/13/2024 12:25,7/13/2024 12:30,e.taani@sdkjordan.com,Elaf Taani,بيلسان طوالبة ,22,IT,Woman,Full stack,15,5,0,5,0,2.5,9,5,2.5,3,ما دخل الامتحان ,Fullstack,0,5,5
+29,7/13/2024 12:30,7/13/2024 12:33,e.taani@sdkjordan.com,Elaf Taani,رافت موفق الشلبي ,20,IT,Man,c++,9,4.3,0,0,0,5,0,3,5,3,ما دخل الامتحان,flutter ,0,0,2
+30,7/13/2024 12:33,7/13/2024 12:35,e.taani@sdkjordan.com,Elaf Taani,ثامر رافت عودات ,20,IT,Man,c++,12,5,5,0,5,5,0,4,5,3,ما دخل الامتحان,Fullstack,0,0,2
+31,7/13/2024 12:35,7/13/2024 12:36,e.taani@sdkjordan.com,Elaf Taani,راشد محسن غرايبة ,20,IT,Man,c++,0,2.3,0,0,2,5,0,2.5,0,0,ما دخل الامتحان,Fullstack,0,0,2
+32,7/13/2024 12:36,7/13/2024 12:38,e.taani@sdkjordan.com,Elaf Taani,ابراهيم شخاتره ,20,IT,Man,python,3,4,1,0,0,5,0,0.5,7,3,ما دخل الامتحان,AI,0,2,2
+33,8/10/2024 11:55,8/10/2024 12:11,e.taani@sdkjordan.com,Elaf Taani,محمد ماجد حسين زيقان ,22,IT,Man,Full stack,12,2.2,10,15,5,0,0,3.5,2,5,ما دخل الامتحان,Fullstack,1,5,4
+34,8/10/2024 12:11,8/10/2024 12:16,e.taani@sdkjordan.com,Elaf Taani,محمود ماجد حسين زيقات,20,IT,Man,Full stack,12,4.5,10,10,0,0,0,4,3,4.5,ما دخل الامتحان,flutter ,1,5,4
+35,8/10/2024 12:16,8/10/2024 12:24,e.taani@sdkjordan.com,Elaf Taani,خالد حافظ شادد,20,IT,Man,Full stack,3,3.2,0,0,0,7.5,0,3,0.5,3,0,Fullstack,0,5,5
+36,8/7/2024 19:58,8/10/2024 14:11,e.taani@sdkjordan.com,Elaf Taani, غالية جهاد عبد الفتاح الكبارية,21,Engineering,Woman,Full stack,12,4,0,0,0,10,0,3.5,3,0,ما دخل الامتحان,Fullstack,0,5,5
+37,8/10/2024 14:11,8/10/2024 14:19,e.taani@sdkjordan.com,Elaf Taani,غيث تيسير محمود تهتموني,19,other,Man,AI,15,4,15,10,5,7,0,4.5,3,5,لم يدخل الامتحان,AI,1,5,4
+38,8/10/2024 14:19,8/10/2024 17:07,e.taani@sdkjordan.com,Elaf Taani,حسام معتز عوض الهزايمة,21,IT,Man,Full stack,9,4,1.5,0,5,5,5,3.5,0,3,لم يدخل الامتحان,Fullstack,0,5,5
+39,8/10/2024 17:09,8/10/2024 17:12,e.taani@sdkjordan.com,Elaf Taani,تالا فيصل علي خريسات ,21,IT,Woman,Python,6,2.3,0,0,0,5,0,3,0,4,لم يدخل الامتحان,AI,0,5,5
+40,8/10/2024 17:12,8/10/2024 17:18,e.taani@sdkjordan.com,Elaf Taani,ثائر منير احمد كساسبة ,20,IT,Man,AI,3,3,0,0,0,5,0,2.5,0,0,لم يدخل الامتحان,flutter ,0,5,5
+41,8/10/2024 17:18,8/10/2024 17:22,e.taani@sdkjordan.com,Elaf Taani,عبد الله محمد,21,Engineering,Man,Full stack,6,2.75,0,0,0,0,5,2.5,2.5,1,دخل الامتحان,Fullstack,0,5,5
+42,8/10/2024 17:22,8/10/2024 17:27,e.taani@sdkjordan.com,Elaf Taani,محمد يحيى الحسين,21,Engineering,Man,network ,6,3.5,0,0,0,5,0,3.5,0,0,لم يدخل الامتحان,network,شبكات,شبكات,شبكات
+43,8/10/2024 17:27,8/10/2024 17:31,e.taani@sdkjordan.com,Elaf Taani,كرم مهند محمد بني اسماعيل,21,IT,Man,AI,12,2.15,0,0,5,10,0,3.5,7,5,لم يدخل الامتحان,AI,0,5,5
+44,8/10/2024 17:31,8/10/2024 17:35,e.taani@sdkjordan.com,Elaf Taani,رجى محمد شفاع,20,Engineering,Man,Flutter,12,3,0,0,0,10,0,3.5,0,3,لم يدخل الامتحان,flutter ,0,5,5
+45,8/10/2024 17:35,8/10/2024 17:39,e.taani@sdkjordan.com,Elaf Taani,محمد زياد عبد الكريم الجيزاوي,21,IT,Man,Python,9,3,0,15,5,2,0,4.5,1,3,لم يدخل الامتحان,AI,1,5,4
+46,8/10/2024 17:39,8/10/2024 17:53,e.taani@sdkjordan.com,Elaf Taani,ابراهيم عمر عبد الصمد,20,other,Man,AI,15,5,10,15,0,2,10,4.5,2.5,5,لم يدخل الامتحان,AI,0,5,5
+47,8/13/2024 16:12,8/13/2024 16:16,e.taani@sdkjordan.com,Elaf Taani,معتصم وليد فالح الروسان,21,Engineering,Man,Full stack,9,3.2,15,10,0,5,5,3.5,0,4.5,لم يدخل الامتحان,Fullstack,1,5,4
+48,8/13/2024 16:16,8/13/2024 16:20,e.taani@sdkjordan.com,Elaf Taani,منار الداما,20,Engineering,Woman,network ,15,5,0,0,0,5,5,4.5,0,5,دخل الامتحان,flutter ,1,5,4
+49,8/13/2024 16:20,8/13/2024 16:23,e.taani@sdkjordan.com,Elaf Taani,جهاد محمد جهاد خليل,21,IT,Man,AI,3,2.5,0,0,0,0,5,3.5,0,0,لم يدخل الامتحان,AI,1,5,1
+50,8/13/2024 16:23,8/13/2024 16:27,e.taani@sdkjordan.com,Elaf Taani,مثنى محمد يوسف عبابنة,21,Engineering,Man,Full stack,12,4.5,0,0,5,5,0,3.5,0.5,4.5,لم يدخل الامتحان,flutter ,1,5,4
+51,8/13/2024 16:27,8/13/2024 16:31,e.taani@sdkjordan.com,Elaf Taani,احمد عبد المولى عياش,18,other,Man,c++,3,2.8,5,0,5,0,0,3,0,0,لم يدخل الامتحان,Fullstack,0,INTRO+C++,0
+52,8/13/2024 16:32,8/13/2024 16:36,e.taani@sdkjordan.com,Elaf Taani,خالد يوسف حمدان العيسى,21,IT,Man,Full stack,12,3.7,0,0,0,5,0,4,4,3,لم يدخل الامتحان,flutter ,0,5,5
+53,8/13/2024 16:36,8/13/2024 16:42,e.taani@sdkjordan.com,Elaf Taani,صالح فراس صالح الاخرس,21,Engineering,Man,Flutter,9,3,0,5,0,10,4.5,3.5,3,3,15,Fullstack,1,5,4
+54,8/13/2024 16:42,8/13/2024 16:46,e.taani@sdkjordan.com,Elaf Taani,محمد جمال ناصر المشجري,21,IT,Man,Full stack,5,3,0,0,0,0,0,3.5,0,0,لم يدخل الامتحان,Fullstack,0,5,5
+55,8/13/2024 16:46,8/13/2024 16:49,e.taani@sdkjordan.com,Elaf Taani,زينا محمد عبد الخالد حايك ,21,Engineering,Woman,Full stack,9,3.2,5,10,5,10,5,4,0,0,لم يدخل الامتحان,Fullstack,1,5,4
+56,8/13/2024 16:49,8/13/2024 16:58,e.taani@sdkjordan.com,Elaf Taani,يحيى سامي ابو ملوح,18,other,Man,تصميم,6,4.5,0,0,0,5,0,3,0,0,لم يدخل الامتحان,network,0,5, 0 تصميم
+57,8/13/2024 16:59,8/13/2024 17:02,e.taani@sdkjordan.com,Elaf Taani,تاج الدين احمد النعامنة,18,other,Man,network ,6,2.5,0,0,5,0,0,3.5,1,0,لم يدخل الامتحان,network,0,3, 1 شبكات 
+58,8/17/2024 12:57,8/17/2024 12:59,e.taani@sdkjordan.com,Elaf Taani,محمد عمر رشيد العلانة,21,IT,Man,Full stack,12,2.2,0,0,0,5,5,3,0,3,لم يدخل الامتحان,Fullstack,0,5,5
+59,8/17/2024 13:00,8/17/2024 13:05,e.taani@sdkjordan.com,Elaf Taani,مؤمن فراس علي الدلكي,18,other,Man,python,10.5,4,0,0,0,0,0,3,0,2.5,لم يدخل الامتحان,AI,0,5,2
+60,8/17/2024 13:05,8/17/2024 13:11,e.taani@sdkjordan.com,Elaf Taani,زيد احمد عبد الله عليان,21,IT,Man,AI,9,3,5,0,0,5,0,3.5,0,2,0,AI,0,5,5
+61,8/17/2024 13:11,8/17/2024 13:13,e.taani@sdkjordan.com,Elaf Taani,حمزة عبد السلام محمد الشبول,18,IT,Man,Full stack,9,3,5,0,5,0,0,3,0,3,لم يدخل الامتحان,Fullstack,0,5,2
+62,8/17/2024 13:13,8/17/2024 13:15,e.taani@sdkjordan.com,Elaf Taani,شذى يوسف احمد فريحات,21,Engineering,Woman,Flutter,12,2.5,2.5,0,0,5,0,4.5,3,3,لم يدخل الامتحان,flutter ,0,5,5
+63,8/17/2024 13:15,8/17/2024 13:20,e.taani@sdkjordan.com,Elaf Taani,رولا ابراهيم عودات,21,Engineering,Woman,Flutter,15,3,0,0,5,5,0,3,6.5,0,لم يدخل الامتحان,flutter ,0,5,5
+64,10/26/2024 12:10,10/26/2024 12:43,e.taani@sdkjordan.com,Elaf Taani,علي فراس حرب ,21,Engineering,Man,Flutter,13,3,0,10,5,5,7,1.5,2.5,3,ما دخل الامتحان ,flutter ,0,5,5
+65,10/26/2024 12:43,10/26/2024 13:16,e.taani@sdkjordan.com,Elaf Taani, بحر خلدون قطيش,18 ,other,Man,lntro+python,12,2.5,0,0,5,5,5,4,3,0,ما دخل الامتحان ,AI,0,5,2
+66,10/26/2024 13:17,10/26/2024 13:35,e.taani@sdkjordan.com,Elaf Taani,سجى عمر القيسي,21,IT,Woman,intro,9,4,0,0,0,0,0,4,1.5,0,0,Fullstack,0,5,5
+67,10/26/2024 13:35,10/26/2024 13:48,e.taani@sdkjordan.com,Elaf Taani,انس مازن الخصاونه ,21,Engineering,Man,without intro,15,4.5,0,15,0,10,0,3.5,1,5,ما دخل الامتحان ,network,دخل مجال الشبكات ,لا يوجد ,لا يوجد 
+68,10/26/2024 13:49,10/26/2024 13:55,e.taani@sdkjordan.com,Elaf Taani,هيثم هادي مرزوقه ,20,IT,Man,Flutter,12,4,5,5,5,1,0,4,1.5,5,8,flutter ,flutter,5,5
+69,10/26/2024 13:55,10/26/2024 14:06,e.taani@sdkjordan.com,Elaf Taani,الحارث محمد الصمادي ,22,Engineering,Man,Full stack,6,3,0,0,0,0,3,5,0,0,ما دخل الامتحان ,Fullstack,1,5,4
+70,10/26/2024 14:13,10/26/2024 14:15,e.taani@sdkjordan.com,Elaf Taani,هاجر محمد قبلان ,28,Engineering,Woman,AI,12,4.5,0,0,5,10,3.5,0,5,4,8,AI,1,5,4
+71,10/26/2024 14:16,10/26/2024 14:26,e.taani@sdkjordan.com,Elaf Taani,محمد بسام طلفاح ,22,IT,Man,Full stack,12.5,3,10,15,5,0,5,2,0,3,لم يتقدم الى  الامتحان ,Fullstack,0,5,5
+72,10/26/2024 14:27,10/26/2024 14:34,e.taani@sdkjordan.com,Elaf Taani,فرح علي الحواري ,21,IT,Woman,without intro ,13.5,3.5,5,10,5,0,5,1.5,1.25,3,6,flutter ,1,5,4
+73,10/26/2024 14:35,10/26/2024 14:38,e.taani@sdkjordan.com,Elaf Taani,عبدالله نور الدين عبيدات ,20 ,IT,Man,Flutter,12.5,3.5,3,15,5,5,10,1.5,0,4,16 ,flutter ,1,5,4
+74,10/26/2024 14:38,10/26/2024 14:42,e.taani@sdkjordan.com,Elaf Taani,عبد الرحمن وليد طاهات ,23,IT,Man,AI,16.5,3,0,15,5,5,10,2,7.5,5,0,AI,1,5,4
+75,10/26/2024 14:43,10/26/2024 14:54,e.taani@sdkjordan.com,Elaf Taani,يزن نبيل ابراهيم ,22,IT,Man,برمجة ,12,3.5,0,0,0,7.5,0,2,2.5,3,لم يتقدم الى الامتحان ,AI,0,intro +python +ccna,2
+76,10/26/2024 14:55,10/26/2024 14:57,e.taani@sdkjordan.com,Elaf Taani,انس مصطفى الزعبي ,23,Engineering,Man,AI,16.5,5,0,15,5,5,9,1.5,1,5,لم يتقدم الى الامتحان ,AI,1,5,4
+77,10/26/2024 15:01,10/26/2024 15:05,e.taani@sdkjordan.com,Elaf Taani,مهند مأمون الشبول ,20,IT,Man,Full stack,13.5,2.70,5,10,5,0,5,2,2.25,3,لم يتقدم الى الامتحان ,Fullstack,0,5,5
+78,10/26/2024 15:06,10/26/2024 15:09,e.taani@sdkjordan.com,Elaf Taani,ابراهيم ياسر جيت ,22,Engineering,Man,AI,15,4.5,0,10,5,5,8,2,0,5,10,AI,1,5,4
+79,10/26/2024 15:10,10/26/2024 15:19,e.taani@sdkjordan.com,Elaf Taani,صخر النمري ,21,IT,Man,AI,10,3.2,0,10,0,0,0,1,1,1,لم يتقدم الى الامتحان ,AI,0,5,5
+80,10/26/2024 15:38,10/26/2024 15:46,e.taani@sdkjordan.com,Elaf Taani, وحيد رائد وحيد قاسم ,22,Engineering,Man,Flutter,12,4.7,0,0,0,5,4.5,4,5,3.5,لم يتقدم الى الامتحان ,flutter ,0,5,5
+81,10/26/2024 15:46,10/26/2024 15:49,e.taani@sdkjordan.com,Elaf Taani,مجد جميل الواكد ,22,other,Man,Flutter,13,5,2.5,0,0,10,5,2.5,1,0.5,لم يتقدم الى  الامتحان ,flutter ,0,5,5
+82,10/26/2024 15:50,10/26/2024 15:53,e.taani@sdkjordan.com,Elaf Taani,لبنى  حسن ارشيدات ,21,Engineering,Woman,AI,16.5,3,5,0,0,0,0,1,6,0.5,لم يتقدم الى الامتحان ,AI,0,5,5
+83,10/26/2024 15:54,10/26/2024 15:57,e.taani@sdkjordan.com,Elaf Taani,محمد خالد شلاش الوقفي ,22,IT,Man,AI,9,2,0,10,0,10,0,2,3.5,3,لم يتقدم الى الامتحان ,AI,0,5,5
+84,10/26/2024 15:57,10/26/2024 16:00,e.taani@sdkjordan.com,Elaf Taani,حسام زاهر محمد شبول ,22,Engineering,Man,Flutter,13,3.35,5,0,0,7,5,2.5,1.75,3.25,لم يتقدم الى الامتحان ,flutter ,0,5,5
+85,10/26/2024 16:00,10/26/2024 16:03,e.taani@sdkjordan.com,Elaf Taani,محمد محمود سليمان ,21,IT,Man,AI,12,0.5,0,10,0,5,5,3,0.5,5,1,AI,0,5,5
+86,10/26/2024 16:04,10/26/2024 16:09,e.taani@sdkjordan.com,Elaf Taani,طيبه محافظه ,20,IT,Woman,Full stack,12,2.8,0,15,5,2.5,9,2,3,0,12,Fullstack,1,5,4
+87,10/26/2024 16:09,10/26/2024 16:11,e.taani@sdkjordan.com,Elaf Taani,لجين محمد التميمي ,21,other,Woman,AI,13,4,10,15,5,0,10,3.5,5,4.5,لم يتقدم الى الامتحان,AI,0,5,5
+88,10/26/2024 16:12,10/26/2024 16:14,e.taani@sdkjordan.com,Elaf Taani,مؤمن محمد الويس ,26,IT,Man,Full stack,15,4.5,0,0,0,0,1,1,0,0,لم يتقدم الى امتحان ,Fullstack,0,5,2 intro+frontend
+89,10/26/2024 16:15,10/26/2024 16:18,e.taani@sdkjordan.com,Elaf Taani, صهيب فايز الخطيب ,25,IT,Man,AI,12,3.5,3,10,5,5,0,2.5,1,5,لم يتقدم الى الامتحان ,AI,1,5,4
+90,10/26/2024 16:24,10/26/2024 16:34,e.taani@sdkjordan.com,Elaf Taani,Yasmeen Haytham Talafha ,21,IT,Woman,Full stack,15,4,5,10,5,6,0,3,5.25,4.5,19,Fullstack,1,5,4
+91,10/26/2024 16:46,10/26/2024 16:46,e.taani@sdkjordan.com,Elaf Taani,Abdallah bassam alrayyan,22,IT,Man,Full stack,6,5,5,0,0,5,0,3,1.25,3,0,Fullstack,0,5,5
+92,10/26/2024 16:46,10/26/2024 16:54,e.taani@sdkjordan.com,Elaf Taani,mohammad kamal,22,Engineering,Man,AI,12,2.7,0,10,0,10,5,3.5,1,3,لم  يتقدم الى اختبار ,AI,0,5,5
+93,10/26/2024 16:54,10/26/2024 16:58,e.taani@sdkjordan.com,Elaf Taani,حسينه محمد حسينه خالد ,20,IT,Man,intro+python+ccna,10,4.70,4,10,0,2.5,10,3,1.25,4,لم يتقدم الى الامتحان ,AI,0,5,3 intro+python+ccna
+94,10/26/2024 16:59,10/26/2024 17:04,e.taani@sdkjordan.com,Elaf Taani,سوار فراس كليب عبيدات ,20,Engineering,Woman,Full stack,10,3.7,0,0,5,0,0,2.3,0.5,0,0,Fullstack,0,5,5
+95,11/2/2024 11:49,11/2/2024 12:07,e.taani@sdkjordan.com,Elaf Taani, امين بكري العزام ,24,IT,Man,Full stack,13,3.30,0,10,0,0,0,2.5,0.25,3.5,لم يتقدم الى الاختبار ,Fullstack,0,5,5
+96,11/2/2024 12:07,11/2/2024 12:10,e.taani@sdkjordan.com,Elaf Taani,محمد مازن النمرات ,24,Engineering,Man,Flutter,16.5,2.7,5,10,5,5,10,1.5,5,3.5,لم يتقدم الى الاختبار ,flutter ,1,5,4
+97,11/2/2024 12:10,11/2/2024 12:12,e.taani@sdkjordan.com,Elaf Taani,علي فراس حرب ,20,Engineering,Man,Flutter,13,3,0,10,5,5,7,1.5,2.5,3,لم يتقدم الى الاختبار ,flutter ,0,5,5
+98,11/2/2024 12:12,11/2/2024 12:16,e.taani@sdkjordan.com,Elaf Taani,زيد نوح طرابشه ,20,IT,Man,c++,13,2.5,5,0,0,2.5,9,1.5,6,3.5,لم يتقدم الى الاختبار ,AI,0,5,3 intro\ python\ c++
+99,11/2/2024 12:16,11/2/2024 12:21,e.taani@sdkjordan.com,Elaf Taani,حمزه حسام الصادق ,23,Engineering,Man,Full stack,16.5,4,10,15,5,0,4,1,1,1.25,لم يتقدم الى الاختبار ,Fullstack,1,5,4
+100,11/2/2024 12:22,11/2/2024 12:27,e.taani@sdkjordan.com,Elaf Taani,sara hosam ammourh ,20,IT,Woman,AI,16.5,5,5,15,0,0,9.5,3.5,7,5,لم تتقدم الى الاختبار ,AI,1,5,4
+101,11/2/2024 12:27,11/2/2024 12:30,e.taani@sdkjordan.com,Elaf Taani,khaled alabed alall,22,Engineering,Man,AI,16.5,4.30,15,15,0,0,10,3,6.5,3.25,19,AI,1,5,4
+102,11/2/2024 12:31,11/2/2024 12:34,e.taani@sdkjordan.com,Elaf Taani,تمارا صالح الزعبي ,21,Engineering,Woman,Flutter,13,3,5,5,5,0,0,2,2.5,3.5,4,flutter ,0,5,5
+103,11/2/2024 12:34,11/2/2024 12:37,e.taani@sdkjordan.com,Elaf Taani,هاشم محمد غزاوي ,21,IT,Man,Full stack,12,3.5,5,10,0,5,4,2,3,5,لم يتقدم الى الاختبار ,Fullstack,0,5,5
+104,11/2/2024 12:38,11/2/2024 12:44,e.taani@sdkjordan.com,Elaf Taani,حمزه عبد سلام شبول ,18,other,Man,Full stack,9,5,5,0,5,0,0,3,0,3,لايوجد ,Fullstack,0,5,5
+105,11/2/2024 12:44,11/2/2024 12:54,e.taani@sdkjordan.com,Elaf Taani,زيد راني الصمادي ,20,Engineering,Man,AI,16.5,5,0,5,5,5,0,3.5,2.5,4,لا يوجد,AI,0,5,2 intor \python
+106,11/2/2024 12:54,11/2/2024 12:57,e.taani@sdkjordan.com,Elaf Taani,بيسلون كامل الشديده ,29,other,Woman,AI,13,4,5,10,5,5,0,2,1,0.25,لايوجد,AI,0,5,3
+107,11/2/2024 12:57,11/2/2024 13:01,e.taani@sdkjordan.com,Elaf Taani,ساندار منذر بور ,20,Engineering,Woman,Full stack,15,4,0,0,5,10,9,2.5,3.25,4,0,Fullstack,0,5,5
+108,11/2/2024 13:01,11/2/2024 13:03,e.taani@sdkjordan.com,Elaf Taani,يمان عمر غرايبه,22,IT,Man,Flutter,12,4.5,0,0,0,5,9,2.5,2,5,لا يوجد ,Fullstack,0,5,5
+109,11/2/2024 13:03,11/2/2024 13:07,e.taani@sdkjordan.com,Elaf Taani,عيسى مجدي عيسى ,21,IT,Man,Flutter,16.5,4,0,10,0,5,0,4.5,2,0,لا يوجد,flutter ,1,5,4
+110,11/2/2024 13:07,11/2/2024 13:10,e.taani@sdkjordan.com,Elaf Taani,ثراء بسام الكيلاني ,25,IT,Woman,Flutter,12,4.5,0,0,0,0,2.5,4,6.5,5,0,Fullstack,1,5,4
+111,11/2/2024 13:10,11/2/2024 13:12,e.taani@sdkjordan.com,Elaf Taani,لبنى حسن ارشيدات ,21,Engineering,Woman,AI,16.5,3,5,0,0,0,0,1,6,0.5,لا يوجد ,AI,0,5,5
+112,11/2/2024 13:13,11/2/2024 13:15,e.taani@sdkjordan.com,Elaf Taani,ملاك عبد الجود الفار ,21,IT,Woman,AI,16.5,4,0,5,0,0,9,2,0.25,5,لا يوجد ,AI,0,5,2 \intro \python 
+113,11/2/2024 13:15,11/2/2024 13:19,e.taani@sdkjordan.com,Elaf Taani,احمد جميل رجب ,21,Engineering,Man,c++,6,4,0,0,5,5,0,2,2.5,3,لا يوجد ,AI,0,5,2\ intro \c++
+114,11/13/2024 15:11,11/13/2024 15:13,e.taani@sdkjordan.com,Elaf Taani,رغد ابو همام ,21,IT,Woman,Flutter,16.5,5,5,0,0,6,0,3.5,2.75,2,لم يتقدم ,flutter ,0, 5,5
+115,11/13/2024 17:42,11/13/2024 17:43,e.taani@sdkjordan.com,Elaf Taani,ضياء الدين ,21,Engineering,Man,network ,15.5,3,0,5,0,5,0,1.5,1.5,3.25,لم يتقدم ,flutter ,0,5,5
+116,8/5/2025 16:59,8/5/2025 17:09,e.taani@sdkjordan.com,Elaf Taani,585858,85558,Engineering,Woman,network ,ا,ا,ا,ا,ا,ا,ا,ا,لا,0,ما دخل,Fullstack,0,5,5
+117,8/5/2025 17:14,8/5/2025 17:29,e.taani@sdkjordan.com,Elaf Taani,gt,f,IT,Woman,AI,vf,f,f,f,f,f,f,f,f,f,f,AI,f,f,f
+118,8/5/2025 17:09,8/5/2025 17:30,e.taani@sdkjordan.com,Elaf Taani,waleed ,20,IT,Man,Flutter,df,f,f,f,f,f,f,f,f,f,f,Fullstack,f,f,f
+119,8/19/2025 16:31,8/19/2025 16:41,e.taani@sdkjordan.com,Elaf Taani,ختام احمد حسين البزور,22,IT,Woman,AI,6,2.25,0,0,5,0,0,3.5,1,3.5,ما دخلت كود,AI,0,5,2
+120,8/23/2025 16:01,8/23/2025 16:05,e.taani@sdkjordan.com,Elaf Taani,ايمن محمد اكرم ربيع,23,IT,Man,network ,7,4.3,0,0,0,0,10,3,6.5,0.25,لم   يدخل,network,0,3,3
+121,8/23/2025 16:06,8/23/2025 16:08,e.taani@sdkjordan.com,Elaf Taani,صهيب امجد محمد الرفاعي ,20,IT,Man,network ,13,3,0,0,5,3,5,2.5,4.5,4.5,لم يدخل ,network,0,3,3
+122,8/24/2025 15:25,8/24/2025 15:42,RashaAjayneh@sdkjordan.com,Rasha Ajayneh,امين محمود جرادات,24,IT,Man,AI,13,4.5,5,5,5,10,9,1.75,3,3.5,15,AI,1,3,2
+123,8/24/2025 15:42,8/24/2025 15:44,RashaAjayneh@sdkjordan.com,Rasha Ajayneh,ورد مخلص سمري,19,IT,Man,Full stack,16.5,3.2,5,0,5,5,5,2.75,3.25,3.25,8,Fullstack,1,5,4
+124,8/27/2025 10:27,8/27/2025 10:32,RashaAjayneh@sdkjordan.com,Rasha Ajayneh,رامز بشار امين منيزل ,19,IT,Man,Full stack,16.5,2,0,0,0,0,5,1.75,1,0.5,لم يدخل ,Fullstack,0,5,5
+125,9/30/2025 14:12,9/30/2025 14:19,e.taani@sdkjordan.com,Elaf Taani,نور هشام حنيف الله الحمود,19,IT,Woman,c++,13,5,0,0,0,0,9,2,5.5,4.75,0,Fullstack,0,5,2
+126,9/30/2025 14:19,9/30/2025 14:29,e.taani@sdkjordan.com,Elaf Taani,فواز محمد فواز البطاينه,21,Engineering,Man,it,13,3.8,0,0,0,5,0,1.25,6,3.5,ما دخل الامتحان,flutter ,0,5,5
+127,9/30/2025 14:29,9/30/2025 14:39,e.taani@sdkjordan.com,Elaf Taani,احمد صفوان صالح حجازي,21,IT,Man,it,16.5,3.5,5,5,0,2.5,10,2,5.5,3.25,مش داخل الامتحان,flutter ,0,5,5
+128,9/30/2025 14:39,9/30/2025 14:49,e.taani@sdkjordan.com,Elaf Taani,محمد محمود محمد الحسين,24,Engineering,Man,Full stack,6,2.45,0,10,5,7.5,5,1,2.25,3.75,0,Fullstack,0,5,5
+129,9/30/2025 14:50,9/30/2025 14:57,e.taani@sdkjordan.com,Elaf Taani,شهد اشرف قاسم بطايحة ,21,IT,Woman,it,16.5,3.7,5,0,5,0,0,2.5,3.5,0.5,0,AI,0,5,2
+130,9/30/2025 14:57,9/30/2025 15:04,e.taani@sdkjordan.com,Elaf Taani,محمود فراس محمود ربابعه ,19,Engineering,Man,it,7,3.7,0,0,0,2.5,0,2,0,5,مش داخل اللامتحان,AI,0,5,2
+131,9/30/2025 15:04,9/30/2025 15:11,e.taani@sdkjordan.com,Elaf Taani,محمد ايمن موسى دواقه,21,IT,Man,Full stack,16.5,5,0,0,5,5,5,1.5,3,3.75,مش داخل الامتحان,Fullstack,0,5,2
+132,9/30/2025 15:12,9/30/2025 15:20,e.taani@sdkjordan.com,Elaf Taani,جود محمد الشطناوي,23,Engineering,Man,AI,9.5,3.7,0,0,0,0,0,2.5,1,3.5,مش داخل الامتحلان,AI,0,5,2
+133,9/30/2025 15:20,9/30/2025 15:27,e.taani@sdkjordan.com,Elaf Taani,انسام احمد هياجنه ,23,Engineering,Woman,it,9.5,4,0,5,5,6,0,2.5,2,3.5,مش داخل,flutter ,1,5,4
+134,9/30/2025 15:27,9/30/2025 15:34,e.taani@sdkjordan.com,Elaf Taani,يزن جميل يحيى الخطيب ,19,Engineering,Man,Full stack,13,0,0,0,0,2.5,5,0.25,0,2,7,Fullstack,0,5,2
+135,9/30/2025 15:35,9/30/2025 15:40,e.taani@sdkjordan.com,Elaf Taani,انس عبدالله العمري,20,IT,Man,Full stack,3,0,0,0,5,2.5,4,0,0,3.25,مش داخل ,network,0,5,5
+136,9/30/2025 15:40,9/30/2025 15:46,e.taani@sdkjordan.com,Elaf Taani,روعة محمد فراس ,19,IT,Woman,AI,3,0,5,0,5,0,0,1.75,1,0.75,مش داخل ,AI,0,5,2
+137,9/30/2025 15:47,9/30/2025 15:53,e.taani@sdkjordan.com,Elaf Taani,يقين يخيى زكريا الزين,19,IT,Woman,Full stack,9,4.7,5,0,5,5,5,1.75,2.5,4.5,مش داخل ,AI,0,5,2
+138,10/1/2025 10:58,10/1/2025 11:08,r.ababneh@sdkjordan.com,Reema Ababneh,جميل علوان جميل بشارات ,19,other,Man,it,9,3.3,0,0,0,5,5,1.5,0,3,مش داخل,AI,0,5,2
+139,10/1/2025 11:08,10/1/2025 11:14,r.ababneh@sdkjordan.com,Reema Ababneh,ليث خالد صالح ,23,Engineering,Man,Full stack,13,3.3,0,0,5,0,5,2,0,3.25,مش داخل,Fullstack,0,5,2
+140,10/1/2025 11:14,10/1/2025 11:23,r.ababneh@sdkjordan.com,Reema Ababneh,يوسف احمد يوسف ,22,Engineering,Man,Full stack,10.5,5,0,10,5,7.5,0,3,3.25,0.75,مش داخل,Fullstack,0,5,5
+141,10/1/2025 11:24,10/1/2025 11:29,r.ababneh@sdkjordan.com,Reema Ababneh,سيف الدين وليد صالح ,21,IT,Man,AI,12.5,2.75,0,10,0,5,5,1.5,2,2,0,AI,0,5,5
+142,10/1/2025 11:29,10/1/2025 11:34,r.ababneh@sdkjordan.com,Reema Ababneh,منار محمود النشاش ,22,IT,Woman,AI,16.5,4.5,0,0,5,0,9,1.5,4.5,3.25,مش داخل,AI,0,5,5
+143,10/1/2025 11:34,10/1/2025 11:41,r.ababneh@sdkjordan.com,Reema Ababneh,هاشم مراد خليفة بني عيسى ,19,IT,Man,AI,9,3.7,0,0,0,0,0,2.5,2.5,2,مش داخل,AI,0,5,5
+144,10/1/2025 11:41,10/1/2025 11:50,r.ababneh@sdkjordan.com,Reema Ababneh,ندى محمد سالم الشرع ,25,IT,Woman,AI,9,2.8,5,0,0,2.5,0,1.75,0,4,مش داخل,AI,0,3,3
+145,10/1/2025 11:55,10/1/2025 12:00,r.ababneh@sdkjordan.com,Reema Ababneh,احمد عمران العامري,20,Engineering,Man,AI,16.5,3,0,0,5,0,0,1,2.5,3.5,مش داخل,AI,0,5,2
+146,10/1/2025 12:01,10/1/2025 12:05,r.ababneh@sdkjordan.com,Reema Ababneh,حلا علي احمد الشوحة ,23,IT,Woman,AI,16.5,5,0,14,0,2.5,10,1.25,2.25,4.25,مش داخل,AI,0,5,5
+147,10/1/2025 12:05,10/1/2025 12:10,r.ababneh@sdkjordan.com,Reema Ababneh,عمر محمد الزبيدي,19,other,Man,AI,12.5,1.5,5,5,0,5,5,1,0.5,3.25,غير داخل,AI,0,5,2
+148,10/1/2025 12:11,10/1/2025 12:16,r.ababneh@sdkjordan.com,Reema Ababneh,سجى يوسف حماشا ,21,IT,Woman,AI,12.5,2.7,0,10,5,10,10,2,2,5,16,AI,1,5,4
+149,10/1/2025 12:16,10/1/2025 12:21,r.ababneh@sdkjordan.com,Reema Ababneh,عبدالله طلحه عبدالله الشرادقه,22,IT,Man,AI,16.5,4.7,0,0,0,2.5,0,2,7,3.5,0,AI,0,3,3
+150,10/1/2025 12:34,10/1/2025 12:41,r.ababneh@sdkjordan.com,Reema Ababneh,ايمن غسان بني حمد ,23,Engineering,Man,AI,16.5,2,0,0,5,0,10,3,10,3.25,مش داخل,AI,0,5,5
+151,10/1/2025 12:46,10/1/2025 12:50,r.ababneh@sdkjordan.com,Reema Ababneh,جمانه عمتر عبيدات,24,IT,Woman,AI,16.5,3.8,0,5,5,5,5,2,5.5,3.25,15,AI,1,5,4
+152,10/1/2025 12:51,10/1/2025 12:55,r.ababneh@sdkjordan.com,Reema Ababneh,احمد مصطفى محمود البحيري,23,IT,Man,Full stack,16.5,4,5,10,5,5,10,2,2.25,3.75,مش داخل,Fullstack,0,5,5
+153,10/1/2025 12:56,10/1/2025 12:58,r.ababneh@sdkjordan.com,Reema Ababneh,عدي مروان ارشيد,23,IT,Man,AI,13.5,2.7,0,5,0,2.5,10,1,2,3.25,مش داخل,AI,0,5,5
+154,10/1/2025 12:59,10/1/2025 13:04,r.ababneh@sdkjordan.com,Reema Ababneh,اوس قاسم شقيرات ,21,IT,Man,AI,10,3.75,5,0,5,5,5,1.5,3.5,3,مش داخل,AI,0,3,3
+155,10/1/2025 13:04,10/1/2025 13:15,r.ababneh@sdkjordan.com,Reema Ababneh,بشر حسام عبيدات,22,IT,Man,c++,3,3.75,0,0,5,0,0,2,3,3.25, مش داخل ,Fullstack,0,5,5
+156,10/1/2025 13:15,10/1/2025 13:19,r.ababneh@sdkjordan.com,Reema Ababneh,راشد حسام عبيدات,23,IT,Man,c++,13,4,0,0,5,5,5,1.25,0,0.25,مش داخل,Fullstack,0,5,5
+157,10/1/2025 13:19,10/1/2025 13:28,r.ababneh@sdkjordan.com,Reema Ababneh,محمد فراس الربابعة ,22,IT,Man,AI,16.5,4.5,0,10,5,5,0,1.5,5.5,4.5,مش داخل,AI,0,5,5
+158,10/1/2025 13:30,10/1/2025 13:36,r.ababneh@sdkjordan.com,Reema Ababneh,ختام احمد حسين,23,IT,Woman,AI,6,2.25,0,0,5,0,0,1,1,3.5,غير داخل,AI,0,5,5
+159,10/1/2025 13:36,10/1/2025 13:42,r.ababneh@sdkjordan.com,Reema Ababneh,مروان كمال عبابنه ,23,IT,Man,AI,10,4.5,5,0,0,0,5,2.25,2.5,0,2,AI,0,5,2
+160,10/1/2025 13:42,10/1/2025 13:47,r.ababneh@sdkjordan.com,Reema Ababneh,نور الدين نبيل عوير ,15,IT,Man,جرافيك ديزاين,3,2.55,0,0,0,1.25,5,0.25,0,0,مش داخل,AI,0,5,5
+161,10/1/2025 13:47,10/1/2025 13:50,r.ababneh@sdkjordan.com,Reema Ababneh,لجين محمد البس,22,IT,Woman,AI,7,3.45,0,0,0,0,0,2.5,2,0,مش داخل,AI,0,5,2
+162,10/1/2025 13:50,10/1/2025 13:54,r.ababneh@sdkjordan.com,Reema Ababneh,محمد نشات وليد السعيد,22,Engineering,Man,Full stack,10.5,3.8,0,0,5,5,0,1.5,0,0.25,مش داخل ,Fullstack,0,5,5
+163,10/1/2025 13:54,10/1/2025 14:00,r.ababneh@sdkjordan.com,Reema Ababneh,راما زيدان خليل ,22,IT,Woman,Full stack,15,3.5,5,0,0,10,0,3.5,2.25,1.5,مش داخل,Fullstack,0,5,5
+164,10/1/2025 14:01,10/1/2025 14:06,r.ababneh@sdkjordan.com,Reema Ababneh,مدين حازم خالد اللطايفة,22,IT,Man,Full stack,16.5,5,0,0,5,5,5,3.5,1.5,0,مش داخل,Fullstack,0,5,5
+165,10/1/2025 14:06,10/1/2025 14:09,r.ababneh@sdkjordan.com,Reema Ababneh,شهد محمد وليد عبابنه ,20,IT,Woman,AI,15,4.5,10,12,5,5,10,1.75,1.75,4.75,مش داخل,AI,0,5,5
+166,10/1/2025 14:10,10/1/2025 14:14,r.ababneh@sdkjordan.com,Reema Ababneh,يوسف فايز يوسف ابو خضرا,23,IT,Man,Flutter,9,3,0,0,0,2.5,5,1.5,2.25,0,مش داخل ,flutter ,0,5,5
+167,10/1/2025 14:15,10/1/2025 14:17,r.ababneh@sdkjordan.com,Reema Ababneh,زيد ناجح السليم ,22,Engineering,Man,Flutter,9,3.3,0,0,0,0,0,1.75,0,3.25,مش داخل,flutter ,0,5,5
+168,10/1/2025 14:21,10/1/2025 14:25,r.ababneh@sdkjordan.com,Reema Ababneh,صهيب امجد محمد الرفاعي ,21,Engineering,Man,Full stack,13,3,0,0,5,3,5,2.5,4.5,4.5,مش داخل,network,0,3,3
+169,10/1/2025 14:25,10/1/2025 14:30,r.ababneh@sdkjordan.com,Reema Ababneh,ايمن محمد ربيع ,23,IT,Man,network ,7,4.3,0,0,0,0,10,3,6.5,0.25,مش داخل,network,0,3,3
+170,10/1/2025 14:30,10/1/2025 14:36,r.ababneh@sdkjordan.com,Reema Ababneh,ورد مخلص سمرن,19,IT,Man,Full stack,15,3.2,5,0,5,5,5,2.75,3.25,2,مش داخل,Fullstack,0,5,5
+171,10/1/2025 14:36,10/1/2025 14:42,r.ababneh@sdkjordan.com,Reema Ababneh,امين محمود جرادات ,23,IT,Man,AI,13,4.5,5,5,5,10,9,1.75,3,3.5,15,AI,1,5,5
+172,10/1/2025 14:42,10/1/2025 14:45,r.ababneh@sdkjordan.com,Reema Ababneh,رامز بشار امين ,19,Engineering,Man,Full stack,12.5,2,0,0,0,0,5,1.75,1,0.5,مش داخل,Fullstack,0,5,5
+173,10/1/2025 14:45,10/1/2025 14:48,r.ababneh@sdkjordan.com,Reema Ababneh,عبد الخليل عبد الحكيم احمد ,23,IT,Man,Full stack,12,3.7,5,0,5,8.5,5,2,1,4.5,مش داخل,Fullstack,0,5,5
+174,10/1/2025 14:48,10/1/2025 14:51,r.ababneh@sdkjordan.com,Reema Ababneh,تقوى محمد العمري ,23,Engineering,Woman,AI,12.5,3.8,15,10,5,0,5,1.25,5,3.25,مش داخل ,AI,0,5,5
+175,10/8/2025 14:00,10/8/2025 14:13,e.taani@sdkjordan.com,Elaf Taani,خالد عبد الناصر علي الخصاونه ,23,IT,Man,Full stack,16.5,5,0,0,5,5,0,2.5,0.25,3.25,مش داخل,Fullstack,0,5,5
+176,10/15/2025 15:35,10/15/2025 16:02,e.taani@sdkjordan.com,Elaf Taani,خالد عبدالناصر خصاونه,23,IT,Man,Full stack,16.5,5,0,0,5,5,0,2.5,0.25,3.25,مش داخل,AI,0,5,5
+177,10/15/2025 16:02,10/15/2025 16:06,e.taani@sdkjordan.com,Elaf Taani,عبدالله العبدالله,22,Engineering,Man,AI,16.5,4.5,5,15,0,5,10,2.5,1.5,1,0,AI,0,5,5
+178,10/15/2025 16:07,10/15/2025 16:09,e.taani@sdkjordan.com,Elaf Taani,اسامة احمد جدعان,22,IT,Man,Full stack,10,5,5,10,5,2.5,10,1.75,3.25,2,مش داخل,Fullstack,0,5,5
+179,10/15/2025 16:09,10/15/2025 16:12,e.taani@sdkjordan.com,Elaf Taani,عادل نصر لبدي,22,IT,Man,AI,6,1.55,0,0,0,5,0,1.5,2,5,مش داخل,AI,0,5,3
+180,10/20/2025 16:05,10/20/2025 16:08,e.taani@sdkjordan.com,Elaf Taani,شكري عدنان شكري محمود,22,IT,Man,Full stack,6.5,4,0,0,0,5,9,2.5,2.5,0.25,مش داخل,Fullstack,0,5,5
+181,10/20/2025 16:16,10/20/2025 16:28,e.taani@sdkjordan.com,Elaf Taani,زيد خيرالله الجراح,22,IT,Man,Full stack,13,3,0,5,5,0,0,2,2.75,5,8,Fullstack,0,5,5
+182,10/20/2025 16:29,10/20/2025 17:02,e.taani@sdkjordan.com,Elaf Taani,احمد خالد براهمه ,22,IT,Man,Full stack,16.5,3.45,0,0,0,5,5,2,3,3.75,0,Fullstack,0,5,2
+183,10/25/2025 13:28,10/25/2025 13:34,e.taani@sdkjordan.com,Elaf Taani,اية محمود شاهين,26,IT,Woman,AI,16.5,4,0,5,5,0,0,1.5,1.25,3.25,مش داخل ,AI,0,5,5
+184,10/25/2025 13:34,10/25/2025 13:37,e.taani@sdkjordan.com,Elaf Taani,محمد هايل الحمود,26,IT,Man,AI,16.5,3,0,15,5,5,4,2,7,3.25,5,AI,0,5,5
+185,11/3/2025 14:12,11/3/2025 14:17,e.taani@sdkjordan.com,Elaf Taani,جوسلين نضال نور الريفي,22,IT,Woman,AI,10,2.3,5,10,5,5,5,1.75,7,4.75,13,AI,0,5,5
+186,11/3/2025 14:17,11/3/2025 14:20,e.taani@sdkjordan.com,Elaf Taani,لانا حسام هلال ايوب,22,IT,Woman,AI,9,3.25,0,0,5,7,6,3.5,3,1,0,AI,0,5,5
+187,11/3/2025 14:20,11/3/2025 14:23,e.taani@sdkjordan.com,Elaf Taani,رهام سمير سعيد الريفي,22,IT,Woman,AI,16.5,5,15,15,5,6,5,3.5,6.5,2.5,13,AI,0,5,5
+188,11/3/2025 14:23,11/3/2025 14:26,e.taani@sdkjordan.com,Elaf Taani,لين بلال خصاونه,23,IT,Woman,Full stack,12.5,5,0,10,5,6,0,2.5,2,3.5,0,Fullstack,0,5,5
+189,11/3/2025 14:26,11/3/2025 14:29,e.taani@sdkjordan.com,Elaf Taani,عمرو مروان القرعان,23,IT,Man,Full stack,9,3.5,0,0,5,0,9,1.75,1,3.25,مش داخل,Fullstack,0,5,5
+190,11/15/2025 16:55,11/15/2025 16:59,e.taani@sdkjordan.com,Elaf Taani,سماح درباس ,17,other,Woman,AI,7,4,5,0,0,5,5,2,0.25,0.25,ما دخل,AI,0,5,5
+191,11/15/2025 17:00,11/15/2025 17:02,e.taani@sdkjordan.com,Elaf Taani,محمد عبيدات,22,other,Man,AI,7,2.7,0,0,0,0,5,2,2.75,3.75,ما دخل,AI,0,5,5
+192,11/17/2025 15:33,11/17/2025 15:35,e.taani@sdkjordan.com,Elaf Taani,محمد بلال غرايبه,23,IT,Man,AI,3,4.05,0,15,0,5,0,2,3,4.25,1,AI,0,5,3
+193,11/19/2025 15:32,11/19/2025 15:41,e.taani@sdkjordan.com,Elaf Taani,ايهاب رسمي ابو حمدة ,34,IT,Man,AI,9.5,0.5,0,0,5,7.5,5,1.5,4.25,1.25,ما دخل,AI,0,5,3
+194,11/19/2025 15:42,11/19/2025 15:45,e.taani@sdkjordan.com,Elaf Taani,حلمي نضال محمود شاكر,25,IT,Man,AI,10,4,0,0,0,0,5,1.75,1.25,0.25,ما دخل,Fullstack,0,5,3
+195,11/26/2025 15:47,11/26/2025 15:51,e.taani@sdkjordan.com,Elaf Taani,محمد الفقيه,22,IT,Man,Full stack,13.5,4.75,10,15,5,10,9,3,5.75,3.5,ما دخل,Fullstack,0,5,3
+196,11/26/2025 15:51,11/26/2025 15:55,e.taani@sdkjordan.com,Elaf Taani,عمر يوسف المقابلة,21,IT,Man,c++,13,2,0,0,0,2.5,5,2,5.25,3.25,0,Fullstack,0,5,3
+197,11/26/2025 15:55,11/26/2025 15:59,e.taani@sdkjordan.com,Elaf Taani,ايهاب رسمي ابو حمده,34,IT,Man,network ,9.5,0.5,0,0,5,7.5,5,1.5,4.25,1.25,ما دخل,network,0,5,3
+198,12/3/2025 12:02,12/3/2025 12:08,e.taani@sdkjordan.com,Elaf Taani,محمد فراس محمود ربابعة ,23,IT,Man,Flutter,16.5,4.5,0,10,5,5,0,1.5,5.5,4.5,مش داخل ,flutter ,0,5,5
+199,12/3/2025 12:08,12/3/2025 12:14,e.taani@sdkjordan.com,Elaf Taani,محمود فراس محمود ربابعه ,21,IT,Man,intro +logic+python,7,3.7,0,0,0,2.5,0,2,0,5,مش داخل ,Fullstack,0,5,5
+200,12/3/2025 12:14,12/3/2025 12:28,e.taani@sdkjordan.com,Elaf Taani,شهد اشرف قاسم بطايحة ,22,IT,Woman,intro+ai+logic,16.5,3.7,5,0,5,0,0,2.5,3.5,0.5,0,AI,0,5,5
+201,12/3/2025 12:28,12/3/2025 12:33,e.taani@sdkjordan.com,Elaf Taani,انسام احمد هياجنه ,24,IT,Man,intro+paython,9.5,4.5,0,5,5,6,0,2.5,2,3.5,مش داخل ,Fullstack,0,5,5
+202,12/3/2025 12:33,12/3/2025 12:36,e.taani@sdkjordan.com,Elaf Taani,فواز محمود فواز الهياجنه,22,IT,Man,Flutter,13,3.8,0,0,0,5,0,1.25,6,3.5,مش داخل,flutter ,0,5,5
+203,12/3/2025 12:37,12/3/2025 12:40,e.taani@sdkjordan.com,Elaf Taani,احمد صفوان صالح حجازي,22,IT,Man,Flutter,16.5,3.5,5,5,0,2.5,10,2,5.5,3.25,مش داخل,flutter ,0,5,5
+204,12/3/2025 12:40,12/3/2025 12:47,e.taani@sdkjordan.com,Elaf Taani,ايمن محمد اكرم ربيع ,23,IT,Man,intro+python+ccna,7,4.3,0,0,0,0,10,3,6.5,0.25,مش داخل,network,0,5,3
+205,12/3/2025 12:49,12/3/2025 13:02,e.taani@sdkjordan.com,Elaf Taani,صهيب امجد محمد الرفاعي ,21,IT,Man,intro+python+ccna,13,3,0,0,5,3,5,2.5,4.5,4.5,مش داخل ,network,0,4,3
+206,12/3/2025 13:02,12/3/2025 13:06,e.taani@sdkjordan.com,Elaf Taani,ضياء الدين محمود قاسم العمري,22,IT,Man,intro+python,13.5,1.5,0,10,0,0,0,2.5,2.25,3.5,مش داخل ,AI,0,5,2
+207,12/3/2025 13:07,12/3/2025 13:11,e.taani@sdkjordan.com,Elaf Taani,محمد محمود محمد الحسين ,22,Engineering,Man,Full stack,6,2.45,0,10,5,7.5,5,1,2.25,3.75,0,Fullstack,0,5,5
+208,12/6/2025 13:49,12/6/2025 13:55,e.taani@sdkjordan.com,Elaf Taani,عبدالله معاوية عصام مساعده ,23,IT,Man,Full stack,12.5,3,0,0,5,0,9,1.25,2.75,3.5,مش داخل,Fullstack,0,5,5
+209,1/10/2026 11:26,1/10/2026 11:45,e.taani@sdkjordan.com,Elaf Taani,صفاء الدين محمد احمد عبيدات ,22,IT,Man,Full stack,9,3.8,7,0,5,2.5,5,2,3.5,3.25,مش داخل ,Fullstack,0,5,3
+210,1/10/2026 11:45,1/10/2026 11:49,e.taani@sdkjordan.com,Elaf Taani,هبة جميل عبد الرحمن الشرمان ,22,IT,Woman,AI,16.5,4.75,0,0,0,0,0,1,2.25,3.25,ما دخلت ,AI,0,5,5
+211,1/10/2026 11:49,1/10/2026 11:51,e.taani@sdkjordan.com,Elaf Taani,محمد السلامات ,22,IT,Man,Full stack,13,3,0,10,5,5,0,1.75,1.25,3.5,ما دخل ,Fullstack,0,5,5
+212,1/12/2026 16:07,1/12/2026 16:17,e.taani@sdkjordan.com,Elaf Taani,لينا حامد الزعبي,27,other,Woman,Full stack,16.5,4,0,10,5,0,10,1.75,6,5,ما دخلت,Fullstack,0,5,5
+213,1/12/2026 16:17,1/12/2026 16:21,e.taani@sdkjordan.com,Elaf Taani,احمد حسام احمد الضمور,22,IT,Man,AI,13,4.5,5,0,5,0,5,1,2,5,ما دخل,AI,0,5,ما دخل
+214,1/12/2026 16:22,1/12/2026 16:26,e.taani@sdkjordan.com,Elaf Taani,تقوى محمد علي صياحين,20,IT,Woman,network ,9,0.2,0,0,0,5,0,2,4,3.25,ما دخلت ,network,0,4,3
+215,1/12/2026 16:59,1/12/2026 17:05,e.taani@sdkjordan.com,Elaf Taani,قيس محمد صياحين ,16,other,Man,network ,13,2,5,0,5,2.5,5,1,0.5,3.25,ما دخل ,network,0,3,3
+216,1/19/2026 12:30,1/19/2026 14:09,e.taani@sdkjordan.com,Elaf Taani,ايهم صفوان خصاونه,23,IT,Man,ccna فقط,6,3.5,0,0,5,5,10,1,0,0.25,ما دخل,network,0,3,3
+217,1/19/2026 14:10,1/19/2026 14:13,e.taani@sdkjordan.com,Elaf Taani,محمد عمر المومني ,20,IT,Man,AI,13,2.7,5,0,0,2.5,0,0.25,0,3.25,ما دخل,AI,0,5,3
+218,1/19/2026 14:13,1/19/2026 15:53,e.taani@sdkjordan.com,Elaf Taani,عبادة احمد القضاة ,19,IT,Man,network ,12.5,0.75,0,0,0,0,0,2,0,3,ما دخل ,network,0,5,5
+219,1/24/2026 14:20,1/24/2026 14:26,e.taani@sdkjordan.com,Elaf Taani,اشرف زياد محمود عبويني,20,IT,Man,سايبر,16.5,3.75,0,0,5,5,0,1,3,3.25,ما دخل,network,0,3,3
+220,1/24/2026 14:28,1/24/2026 14:33,e.taani@sdkjordan.com,Elaf Taani,فيصل محمد فيصل الربابعة,27,IT,Man,Full stack,10,3,0,0,5,0,0,1.5,0,0.25,ما دخل,Fullstack,0,5,5
+221,1/26/2026 15:42,1/26/2026 15:45,e.taani@sdkjordan.com,Elaf Taani,لجين رامي جرادات,21,IT,Woman,سايبر,16.5,3.45,0,0,5,5,9,2,0.25,0.5,ما دخلت,network,0,4,4
+222,1/26/2026 15:45,1/26/2026 15:48,e.taani@sdkjordan.com,Elaf Taani,محمد رافع عبيدات,21,IT,Man,Full stack,13,3.45,5,0,0,5,4,1.5,0,1.25,ما دخل,Fullstack,0,5,5
+223,2/2/2026 14:37,2/2/2026 14:40,e.taani@sdkjordan.com,Elaf Taani,محمد ضيف الله طلفاح,23,IT,Man,AI,10,4,0,0,0,0,4,1.25,5,3.25,0,AI,0,5,5
+224,2/2/2026 14:41,2/2/2026 14:44,e.taani@sdkjordan.com,Elaf Taani,احمد عواد الزعبي,23,IT,Man,سايبر,16.5,3,5,15,5,5,10,1.75,1.75,5,ما دخل,network,0,3,3
+225,2/3/2026 11:45,2/3/2026 11:48,e.taani@sdkjordan.com,Elaf Taani,بهاء نيازي تفاحة,23,IT,Man,ccna,16.5,4,15,5,0,7.5,0,1.5,1.25,3.5,ما دخل,network,0,3,3
+226,2/3/2026 15:20,2/3/2026 15:22,e.taani@sdkjordan.com,Elaf Taani,وئام محمد عبيدات,23,IT,Man,سايبر,6,3,0,0,0,5,0,2.75,0.5,3.5,ما دخل,network,0,3,3
