@@ -55,8 +55,9 @@ if submitted:
     sample_df = pd.DataFrame([sample_dict])
     sample_df = sample_df[X_columns]
 
-    probs = model.predict_proba(sample_df)[0]
-    pred = model.predict(sample_df)[0]
+    probs = model.predict_proba(sample_df.values)[0]
+    pred = model.predict(sample_df.values)[0]
+
     track_name = le.inverse_transform([pred])[0]
 
     st.subheader(f"✅ التراك المقترح: {track_name}")
