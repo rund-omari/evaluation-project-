@@ -9,7 +9,7 @@ X_columns = joblib.load("feature_columns.pkl")
 
 st.set_page_config(page_title="توقع التراك للطالب", layout="centered")
 st.title("Smart Track ")
-st.subheader("SDK traunung center ")
+st.subheader("SDK training center ")
 st.title(" توقع التراك المناسب للطالب")
 
 with st.form("student_form"):
