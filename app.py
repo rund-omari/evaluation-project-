@@ -8,7 +8,9 @@ le = joblib.load("label_encoder.pkl")
 X_columns = joblib.load("feature_columns.pkl")
 
 st.set_page_config(page_title="توقع التراك للطالب", layout="centered")
-st.title("🎯 توقع التراك المناسب للطالب")
+st.title("Smart Track ")
+st.subheader("SDK traunung center "))
+st.title(" توقع التراك المناسب للطالب")
 
 with st.form("student_form"):
     age = st.number_input("Age", min_value=10, max_value=100, value=20)
