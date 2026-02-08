@@ -65,4 +65,5 @@ if submitted:
 
     for cls, prob in zip(le.classes_, probs):
         st.write(f"{cls}: {prob*100:.2f}%")
-        st.progress(prob)
+        st.progress(float(prob))
+
